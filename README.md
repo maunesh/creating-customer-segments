@@ -2,8 +2,10 @@
 ## Project: Creating Customer Segments
 
 This project is completed as a part of Udacity's Machine Learning Engineer Nanodegree program.
+It explores a selection of 440 data points collected on the data found from clients of a wholesale distributor in Lisbon, Portugal. 
+The hypothetical situation here is that the wholesale distiributor is trying to reduce frequency of delivery from 5 days per week to 3 days per week, and the goal of the project is to determine which customers will be happy and which customers will not be happy if the frequency of deliver is reduced. I begin with exploratory data analysis and then cluster the customers using Unsupervised Learning algorithm.
 
-Refer to [customer_segments.ipynb](https://github.com/maunesh/creating-customer-segments/blob/master/customer_segments.ipynb).
+Refer to [customer_segments.ipynb](https://github.com/maunesh/creating-customer-segments/blob/master/customer_segments.ipynb) for the details. 
 
 ### Install
 
