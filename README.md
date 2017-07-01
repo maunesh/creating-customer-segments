@@ -1,6 +1,10 @@
 # Content: Unsupervised Learning
 ## Project: Creating Customer Segments
 
+This project is completed as a part of Udacity's Machine Learning Engineer Nanodegree program.
+
+Refer to [customer_segments.ipynb](https://github.com/maunesh/creating-customer-segments/blob/master/customer_segments.ipynb).
+
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
